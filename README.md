@@ -20,5 +20,5 @@ docker push timveil/oo-docker-base-alpine-oracle:latest
 #### Running the Image
  
 ```bash
-docker run -it timveil/oo-docker-base-alpine-oracle
+docker run -it timveil/oo-docker-base-alpine-oracle:latest
 ```
